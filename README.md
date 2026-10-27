@@ -7,7 +7,8 @@ A Tableau Story presents selected visuals in a guided sequence, including a reli
 Tableau Public
 View the interactive dashboard
 Tools
-- Tableau Public
+- Tableau Public link
+- https://public.tableau.com/app/profile/suyog.jadhav5846/viz/F1RaceIntelligenceDashboard_17931267184680/F1RaceIntelligenceDashboard?publish=yes
 - Formula 1 race dataset (1950–2024)
 Note
 Tyre compound results are limited to the 2023–2024 data available in the dataset.
